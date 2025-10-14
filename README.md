@@ -32,17 +32,15 @@ Git, Jupyter, VS Code, Linux
 
 ## 🌟 Featured Projects
 
-- [BridgeLabz-3Y-Classroom](https://github.com/SarvagyaSaxena101/BridgeLabz-3Y-Classroom)  
-  Collaborative classroom projects, learning resources, and code samples.
 
 - [Deep-Learning-Models](https://github.com/SarvagyaSaxena101/Deep-Learning-Models)  
-  A curated collection of deep learning models and experiments.
+  A curated collection of deep learning models and experiments including Transformers for language translation and Radiology task based CNN models.
 
-- [MLOPS](https://github.com/SarvagyaSaxena101/MLOPS)  
-  End-to-end MLOps workflows and automation scripts.
+- [RasoiGhar](https://github.com/SarvagyaSaxena101/RasoiGhar)  
+  A end to end android application which leverages technologies like Generative AI using LLAMA and various CNN and YOLO based detection and tracking models which are combined to be used as a COoking Assistant and Meal Planner 
 
-- [baymaxx](https://github.com/SarvagyaSaxena101/baymaxx)  
-  Intelligent assistant with AI capabilities.
+- [MILO (Medical Assitant application)](https://github.com/SarvagyaSaxena101/MILO_Medical_Agent_App)  
+  A medical imaging and recommendation based application that harnesses CNN , Generative AI , RAG based concepts to deliver high end recommendations and complete the medical demands of the user.
 
 ---
 
@@ -51,7 +49,6 @@ Git, Jupyter, VS Code, Linux
 - Email: sarvagyasaxena101@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/sarvagyasaxena101)
 - [Twitter/X](https://twitter.com/sarvagyasaxena101)
-- [Website/Portfolio](#) <!-- Add your website link if you have one -->
 
 ---
 

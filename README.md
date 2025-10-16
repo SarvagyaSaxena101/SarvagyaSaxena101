@@ -46,9 +46,8 @@ Git, Jupyter, VS Code, Linux
 
 ## 📫 Contact & Links
 
-- Email: sarvagyasaxena101@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/sarvagyasaxena101)
-- [Twitter/X](https://twitter.com/sarvagyasaxena101)
+- Email: sarvagyasaxena2006@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/-sarvagya)
 
 ---
 

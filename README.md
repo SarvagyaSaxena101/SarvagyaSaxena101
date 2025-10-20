@@ -17,7 +17,7 @@ I'm a passionate developer, AI enthusiast, and lifelong learner. I love building
 ## 🚀 Skills & Tools
 
 **Languages:**  
-Python, Java, C++, JavaScript
+Python, Java
 
 **Frameworks & Libraries:**  
 PyTorch, TensorFlow, Keras, Scikit-learn, Flask, FastAPI

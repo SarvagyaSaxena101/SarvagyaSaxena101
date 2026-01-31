@@ -1,6 +1,6 @@
 # Hi there, I'm Sarvagya Saxena 👋
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile!
 I'm a passionate AI/ML/DL researcher and developer, dedicated to advancing intelligent systems through cutting-edge research and innovative applications. I specialize in deep learning, multimodal AI, and research-driven solutions.
 
 ---
